@@ -1,3 +1,5 @@
+This is a small widgets style web app.  There are 4 widgets in total - an accordion, a search (using Wikipedia API), a dropdown menu and a language translator.  This was created to learn React Hooks, setState, useEffect and useRef.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
